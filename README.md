@@ -5,7 +5,7 @@ AWS의 EC2 배포를 연습하는 프로젝트입니다.
 
 ## requirements
 
-- Python < 3.7
+- Python (3.6)
 
 ## Installation
 
